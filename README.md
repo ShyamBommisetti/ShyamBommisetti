@@ -8,12 +8,17 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm a **YOUR ROLE** with **X years** of experience
-- 🌱 I'm passionate about building clean, scalable applications
-- 📺 I create content on YouTube, Medium & Instagram
-- ⚡ Fun fact: I love turning complex problems into simple solutions
-- 💬 Ask me about **YOUR TOP SKILLS**
-- 📫 Reach me at: **YOUR EMAIL (optional)**
+- 🚀 I'm **Shyam Bommisetti**, a passionate **Full Stack Developer** from Hyderabad, India
+- 💻 Skilled in **Java, Spring Boot, ReactJS** — comfortable on both backend and frontend
+- 🔧 Built **Wheelizie** — a full vehicle comparison & purchase platform with 15+ RESTful APIs
+- 🐾 Developed a **Veterinary Store Management App** with clean UI, OTP login & cart features
+- 🛡️ Experienced in **secure authentication** — OTP login, email auth, JWT & OAuth
+- 🗄️ Strong with databases using **MySQL, Hibernate, JPA** for efficient data handling
+- 🐳 Familiar with **Docker & Kubernetes** for containerization and deployment
+- 🎨 Eye for design — use **Figma** to plan clean and user-friendly interfaces
+- 🌱 Currently exploring **Microservices architecture** and cloud-native development
+- 💬 Ask me about **Spring Boot, REST APIs, or ReactJS**
+- 📫 Reach me at **shyambvlr@gmail.com**
 
 ## 🛠️ Tech Stack
 
@@ -42,42 +47,18 @@
 
 ## 🌐 Connect With Me
 
-[![YouTube](https://img.shields.io/badge/YouTube-3K%20Subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR-YOUTUBE-URL)
-[![Medium](https://img.shields.io/badge/Medium-6K%20Followers-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR-MEDIUM-URL)
-[![Instagram](https://img.shields.io/badge/Instagram-30K%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR-INSTAGRAM-URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR-PORTFOLIO-URL)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&row=1&column=7" />
-</div>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-30K%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hey_naidu_x_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shyam-bommisetti-0920025n7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shyambommisetti.github.io/my-portfolio/)
 
 ---
 <div align="center">
   <h3>💬 Let's Connect & Build Something Amazing!</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](YOUR-LINKEDIN-URL)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube)](YOUR-YOUTUBE-URL)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](YOUR-INSTAGRAM-URL)
+[![Instagram](https://img.shields.io/badge/Instagram-30K%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hey_naidu_x_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shyam-bommisetti-0920025n7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shyambommisetti.github.io/my-portfolio/)
+
   
   *"Code. Create. Inspire."*
 </div>
