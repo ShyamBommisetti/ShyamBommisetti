@@ -43,7 +43,7 @@
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-30K%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hey_naidu_x_/)
+[![Instagram](https://img.shields.io/badge/Instagram-Explore-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hey_naidu_x_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shyam-bommisetti-0920025n7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shyambommisetti.github.io/my-portfolio/)
 
@@ -51,7 +51,7 @@
 <div align="center">
   <h3>💬 Let's Connect & Build Something Amazing!</h3>
   
-[![Instagram](https://img.shields.io/badge/Instagram-30K%20Followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hey_naidu_x_/)
+[![Instagram](https://img.shields.io/badge/Instagram-Explore-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_hey_naidu_x_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shyam-bommisetti-0920025n7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shyambommisetti.github.io/my-portfolio/)
 
